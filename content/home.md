@@ -4,6 +4,6 @@ Date: 3/6/2025
 ----
 
 # Welcome to my page
-Here's an image of my cat
-
-![image](C:\Users\bacon\OneDrive\Pictures\Saved Pictures\cat.png)
+I have put my resume on the web!
+It's on the second page.
+Thank you for stopping by.
