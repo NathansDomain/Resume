@@ -98,4 +98,6 @@ changes when I refresh the website in my browser?
 ### Credits
 ##
 * Modern Technical Writing: An Introduction to Software Documentation
-* Class mates
+* Class mates: Ashek A Zaman and Shreshth Tyagi
+* Professor: Tristan Miller
+* Tutorials: Stack overflow
