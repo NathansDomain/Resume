@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Nathan's Site - misc</title><link href="https://NathansDomain.github.io/Resume/" rel="alternate"></link><link href="https://NathansDomain.github.io/Resume/feeds/misc.atom.xml" rel="self"></link><id>https://NathansDomain.github.io/Resume/</id><updated>2025-03-06T00:00:00-06:00</updated><entry><title>Resume</title><link href="https://NathansDomain.github.io/Resume/resume.html" rel="alternate"></link><published>2025-03-06T00:00:00-06:00</published><updated>2025-03-06T00:00:00-06:00</updated><author><name>Nathan</name></author><id>tag:nathansdomain.github.io,2025-03-06:/Resume/resume.html</id><content type="html">&lt;h1&gt;Welcome to my page&lt;/h1&gt;
+&lt;p&gt;Here's an image of my cat&lt;/p&gt;
+&lt;p&gt;&lt;img alt="image" src="C:\Users\bacon\OneDrive\Pictures\Saved Pictures\cat.png"&gt;&lt;/p&gt;</content><category term="misc"></category></entry></feed>
